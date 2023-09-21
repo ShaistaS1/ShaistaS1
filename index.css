@@ -1,0 +1,339 @@
+.hh-1-icon {
+  position: absolute;
+  top: 180px;
+  left: 1021px;
+  width: 419px;
+  height: 759.31px;
+  object-fit: cover;
+}
+.venus {
+  position: absolute;
+  top: 71px;
+  left: 86px;
+  font-size: 56px;
+  font-family: var(--font-amaranth);
+}
+.home,
+.that-everyone-loves {
+  position: absolute;
+  font-family: var(--font-khmer);
+}
+.home {
+  top: 81px;
+  left: 607px;
+  font-size: var(--font-size-7xl);
+  text-decoration: underline;
+}
+.that-everyone-loves {
+  top: 345px;
+  left: 86px;
+  font-size: 44px;
+}
+.about,
+.beauty-products,
+.contact {
+  position: absolute;
+  top: 81px;
+  left: 736px;
+  font-size: var(--font-size-7xl);
+  text-decoration: underline;
+  font-family: var(--font-khmer);
+}
+.beauty-products,
+.contact {
+  left: 862px;
+}
+.contact {
+  left: 1107px;
+}
+.desktop-1-child,
+.desktop-1-item {
+  position: absolute;
+  top: 81px;
+  left: 1253px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-gray-100);
+  width: 116px;
+  height: 48px;
+}
+.desktop-1-item {
+  top: 518px;
+  left: 86px;
+  border-radius: 0 var(--br-16xl) var(--br-16xl) var(--br-16xl);
+  width: 280px;
+  height: 59px;
+}
+.login {
+  top: 81px;
+  left: 1276px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-khmer);
+  color: var(--color-white);
+  width: 84px;
+}
+.explore-products,
+.login,
+.natural-organics {
+  position: absolute;
+  display: inline-block;
+}
+.explore-products {
+  top: 529px;
+  left: 108px;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+  width: 247px;
+  height: 48px;
+}
+.natural-organics {
+  top: 226px;
+  left: 86px;
+  font-size: 92px;
+  line-height: 140.2%;
+  font-family: var(--font-philosopher);
+  width: 724px;
+  height: 209px;
+}
+.these-organic-materials {
+  margin: 0;
+}
+.these-organic-materials-container {
+  position: absolute;
+  top: 428px;
+  left: 86px;
+  font-size: 17px;
+  font-family: var(--font-gudea);
+}
+.desktop-1-inner {
+  position: absolute;
+  top: 710px;
+  left: 86px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 245px;
+  height: 245px;
+}
+.body-wash,
+.off {
+  position: absolute;
+  top: 873px;
+  left: 114px;
+  color: var(--color-gray-200);
+}
+.off {
+  top: 927px;
+  left: 125px;
+  font-size: var(--font-size-lg);
+}
+.desktop-1-child1,
+.rectangle-div {
+  position: absolute;
+  top: 711px;
+  left: 409px;
+  border-radius: var(--br-26xl);
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 232px;
+  height: 245px;
+}
+.desktop-1-child1 {
+  top: 710px;
+  left: 720px;
+  width: 227px;
+}
+.pesce-huang-mq73cwf9zaq-unspla-icon {
+  position: absolute;
+  top: 570px;
+  left: 746px;
+  width: 188px;
+  height: 319px;
+  object-fit: cover;
+}
+.deanna-alys-6lbbowkpzyq-unspla-icon,
+.siora-photography-zot788tqrdu-icon {
+  position: absolute;
+  top: 603px;
+  left: 154px;
+  width: 119px;
+  height: 280px;
+  object-fit: cover;
+}
+.siora-photography-zot788tqrdu-icon {
+  top: 594px;
+  left: 463px;
+  height: 286px;
+}
+.div {
+  position: absolute;
+  top: 899px;
+  left: 129px;
+}
+.desktop-1-child2 {
+  position: absolute;
+  top: 893px;
+  left: 275px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-gray-100);
+  width: 33px;
+  height: 34px;
+}
+.div1 {
+  position: absolute;
+  top: 895px;
+  left: 283px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+}
+.face-wash {
+  position: absolute;
+  top: 873px;
+  left: 436px;
+}
+.face-wash,
+.off1,
+.perfumes {
+  color: var(--color-gray-200);
+}
+.perfumes {
+  position: absolute;
+  top: 871px;
+  left: 761px;
+}
+.off1 {
+  top: 927px;
+  left: 444px;
+  font-size: var(--font-size-lg);
+}
+.div2,
+.off1,
+.off2 {
+  position: absolute;
+}
+.off2 {
+  top: 927px;
+  left: 766px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-200);
+}
+.div2 {
+  top: 900px;
+  left: 450px;
+}
+.follow,
+.scroll-down {
+  position: absolute;
+  top: 745px;
+  left: 1337px;
+  font-family: var(--font-gudea);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.scroll-down {
+  top: 939px;
+  left: 1004px;
+}
+.div3 {
+  position: absolute;
+  top: 899px;
+  left: 770px;
+}
+.desktop-1-child3,
+.desktop-1-child4 {
+  position: absolute;
+  top: 893px;
+  left: 582px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-gray-100);
+  width: 33px;
+  height: 34px;
+}
+.desktop-1-child4 {
+  top: 894px;
+  left: 896px;
+}
+.div4,
+.div5 {
+  position: absolute;
+  top: 895px;
+  left: 590px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+}
+.div5 {
+  top: 896px;
+  left: 904px;
+}
+.desktop-1-child5,
+.line-div {
+  position: absolute;
+  box-sizing: border-box;
+}
+.desktop-1-child5 {
+  top: 848px;
+  left: 1004px;
+  border-radius: 52px;
+  background-color: var(--color-gainsboro);
+  border: 3px solid var(--color-black);
+  width: 48px;
+  height: 80px;
+}
+.line-div {
+  top: 861.5px;
+  left: 1023.5px;
+  border-right: 3px solid var(--color-black);
+  width: 3px;
+  height: 35px;
+}
+.phfacebook-logo-icon {
+  position: absolute;
+  top: 792px;
+  left: 1360px;
+  width: 27px;
+  height: 29px;
+  overflow: hidden;
+}
+.carbonlogo-instagram-icon,
+.carbonlogo-twitter-icon,
+.vector-icon {
+  position: absolute;
+  top: 841px;
+  left: 1359px;
+  width: 32px;
+  height: 34px;
+  overflow: hidden;
+}
+.carbonlogo-twitter-icon,
+.vector-icon {
+  top: 895px;
+  left: 1358px;
+  height: 32px;
+}
+.vector-icon {
+  height: 2.44%;
+  width: 1.88%;
+  top: 92.48%;
+  right: 3.47%;
+  bottom: 5.08%;
+  left: 94.65%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.desktop-1 {
+  position: relative;
+  background: linear-gradient(
+    233.08deg,
+    rgba(255, 255, 255, 0.9) 43.74%,
+    rgba(186, 186, 186, 0.9) 75.58%
+  );
+  border: 26px solid rgba(129, 129, 129, 0.8);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-hammersmith-one);
+}
